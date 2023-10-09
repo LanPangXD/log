@@ -1,0 +1,66 @@
+2023-10-07 04:56:45.132675 (pid/56139 [MRFileSync]) <Notice>: uncorking domain
+2023-10-07 04:56:45.132847 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.appkit.xpc.ColorPickerImageLoader
+2023-10-07 04:56:45.132856 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.appkit.xpc.defaultSyncService
+2023-10-07 04:56:45.132858 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.appkit.xpc.documentPopoverViewService
+2023-10-07 04:56:45.132861 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.appkit.xpc.LegacyExternalColorPickerService.arm64
+2023-10-07 04:56:45.132862 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.appkit.xpc.LegacyExternalColorPickerService.x86_64
+2023-10-07 04:56:45.132864 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.MediaLibraryBrowser
+2023-10-07 04:56:45.132866 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.appkit.xpc.sandboxedServiceRunner
+2023-10-07 04:56:45.132868 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.appkit.xpc.ThemeWidgetControlViewService
+2023-10-07 04:56:45.132870 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.xpc.TypographyPanelService
+2023-10-07 04:56:45.132871 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.automator.xpc.workflowServiceRunner
+2023-10-07 04:56:45.132873 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.appkit.xpc.VersionsUIHelper
+2023-10-07 04:56:45.132875 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.appkit.xpc.openAndSavePanelService
+2023-10-07 04:56:45.132983 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.PerfPowerTelemetryClientRegistrationService
+2023-10-07 04:56:45.133017 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.foundation.UserScriptService
+2023-10-07 04:56:45.133111 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.textkit.nsattributedstringagent
+2023-10-07 04:56:45.133129 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.CoreGraphics.CGPDFService
+2023-10-07 04:56:45.133146 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.ImageIOXPCService
+2023-10-07 04:56:45.133185 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.speech.SpeechSynthesisServerXPC
+2023-10-07 04:56:45.133262 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.audio.Core-Audio-Driver-Service.helper
+2023-10-07 04:56:45.133265 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.audio.Core-Audio-Driver-Service
+2023-10-07 04:56:45.133268 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.audio.DriverHelper
+2023-10-07 04:56:45.133284 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.extensionkitservice
+2023-10-07 04:56:45.133315 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.corelocation.maphelperservice
+2023-10-07 04:56:45.133384 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.audio.AUHostingService.x86-64
+2023-10-07 04:56:45.133386 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.audio.AUHostingService.arm64e
+2023-10-07 04:56:45.133391 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.audio.AudioConverterService
+2023-10-07 04:56:45.133395 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.audio.CarbonComponentScanner.x86-64
+2023-10-07 04:56:45.133398 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.audio.ComponentTagHelper
+2023-10-07 04:56:45.133401 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.audio.InfoHelper
+2023-10-07 04:56:45.133404 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.audio.SandboxHelper
+2023-10-07 04:56:45.133415 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.internal.DataDetectorsRemoteScanner
+2023-10-07 04:56:45.133430 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.CoreDisplay.XPCService
+2023-10-07 04:56:45.133438 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.CMValidateMovieDataReferenceService
+2023-10-07 04:56:45.133484 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.OSLogService
+2023-10-07 04:56:45.133495 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.finder.FinderSync.IsExtensionEnabled
+2023-10-07 04:56:45.133594 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.coremedia.videodecoder
+2023-10-07 04:56:45.133596 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.coremedia.videodecoder.zonto
+2023-10-07 04:56:45.133600 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.coremedia.videoencoder
+2023-10-07 04:56:45.133602 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.coremedia.videoencoder.zonto
+2023-10-07 04:56:45.133709 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.ColorSyncXPCAgent
+2023-10-07 04:56:45.133784 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.desktopservices.ArchiveService
+2023-10-07 04:56:45.133787 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.desktopservices.QuarantineService
+2023-10-07 04:56:45.133809 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.security.XPCAcmeService
+2023-10-07 04:56:45.133861 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.security.pboxd
+2023-10-07 04:56:45.133873 (pid/56139 [MRFileSync]) <Notice>: Service stub created for com.apple.MTLCompilerService
+2023-10-07 04:56:45.139267 (pid/55978/com.andrew.magicright.free.MRFileSync.F2DBF534-5E93-42F0-8B25-4FA4384F6AC0 [56139]) <Notice>: extension checked in as alive
+2023-10-07 04:56:45.142259 (pid/55978/com.andrew.magicright.free.MRFileSync.F2DBF534-5E93-42F0-8B25-4FA4384F6AC0 [56139]) <Notice>: extension already interrupted clean exit attempt
+2023-10-07 04:56:45.192451 (gui/501 [100017]) <Warning>: failed lookup: name = com.apple.tiswitcher.fromuiserver, flags = 0x1, requestor = TextInputMenuAg[822], error = 3: No such process
+2023-10-07 04:56:45.192579 (gui/501 [100017]) <Warning>: failed lookup: name = com.apple.DFRSystemExtra.InputMenu.disableinput, flags = 0x1, requestor = TextInputMenuAg[822], error = 3: No such process
+2023-10-07 04:56:45.255333 (gui/501 [100017]) <Warning>: failed lookup: name = com.apple.tiswitcher.fromuiserver, flags = 0x1, requestor = TextInputMenuAg[822], error = 3: No such process
+2023-10-07 04:56:45.255884 (gui/501 [100017]) <Warning>: failed lookup: name = com.apple.DFRSystemExtra.InputMenu.disableinput, flags = 0x1, requestor = TextInputMenuAg[822], error = 3: No such process
+2023-10-07 04:56:45.277087 (user/501) <Warning>: failed lookup: name = com.apple.tiswitcher.fromuiserver, flags = 0x1, requestor = CursorUIViewSer[52710], error = 3: No such process
+2023-10-07 04:56:45.369458 <Notice>: Last log repeated 1 times
+2023-10-07 04:56:45.367319 (gui/501 [100017]) <Warning>: failed lookup: name = com.apple.tiswitcher.fromuiserver, flags = 0x1, requestor = TextInputMenuAg[822], error = 3: No such process
+2023-10-07 04:56:45.367493 (gui/501 [100017]) <Warning>: failed lookup: name = com.apple.DFRSystemExtra.InputMenu.disableinput, flags = 0x1, requestor = TextInputMenuAg[822], error = 3: No such process
+2023-10-07 04:56:45.514759 (gui/501 [100017]) <Warning>: failed lookup: name = com.apple.tiswitcher.fromuiserver, flags = 0x1, requestor = TextInputMenuAg[822], error = 3: No such process
+2023-10-07 04:56:45.514888 (gui/501 [100017]) <Warning>: failed lookup: name = com.apple.DFRSystemExtra.InputMenu.disableinput, flags = 0x1, requestor = TextInputMenuAg[822], error = 3: No such process
+2023-10-07 04:56:45.651493 (gui/501/com.apple.helpd [55787]) <Notice>: exited due to exit(0)
+2023-10-07 04:56:45.651519 (gui/501/com.apple.helpd [55787]) <Notice>: service state: exited
+2023-10-07 04:56:45.651530 (gui/501/com.apple.helpd [55787]) <Notice>: internal event: EXITED, code = 0
+2023-10-07 04:56:45.651536 (gui/501/com.apple.helpd [55787]) <Notice>: job state = exited
+2023-10-07 04:56:45.651592 (gui/501 [100017]) <Notice>: service inactive: com.apple.helpd
+2023-10-07 04:56:45.651624 (gui/501/com.apple.helpd [55787]) <Notice>: service state: not running
+2023-10-07 04:56:45.651637 (pid/55787 [helpd]) <Notice>: shutting down
+2023-10-07 04:56:45.651647 (pid/55787 [helpd]) <Notice>: cleaning up
